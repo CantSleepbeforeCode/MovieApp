@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Favorite App</string>
+    <string name="title_home">Accueil</string>
+    <string name="no_data_available">PAS DE DONNÉES DISPONIBLES!</string>
+    <string name="movie_title">Titre du film</string>
+    <string name="description">La description</string>
+    <string name="overview">Vue d\'ensemble</string>
+    <string name="favorite">Préféré</string>
+    <string name="remove_favorite">Retiré du favori</string>
+    <string name="add_favorite">Ajouté aux favoris</string>
+    <string name="movies">Films</string>
+    <string name="tv_shows">Émissions de télévision</string>
+</resources>

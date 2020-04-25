@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Favorite App</string>
+    <string name="title_home">Rumah</string>
+    <string name="no_data_available">TIDAK ADA DATA YANG TERSEDIA!</string>
+    <string name="movie_title">Judul film</string>
+    <string name="description">Sinopsis</string>
+    <string name="overview">Sinopsis</string>
+    <string name="favorite">Favorit</string>
+    <string name="remove_favorite">Dihapus dari Favorit</string>
+    <string name="add_favorite">Ditambahkan ke Favorit</string>
+    <string name="movies">Film</string>
+    <string name="tv_shows">Tv Shows</string>
+</resources>

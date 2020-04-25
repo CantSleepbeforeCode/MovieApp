@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Favorite App</string>
+    <string name="title_home">Home</string>
+    <string name="no_data_available">NO DATA AVAILABLE!</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="description">Description</string>
+    <string name="overview">Overview</string>
+    <string name="favorite">Favorite</string>
+    <string name="remove_favorite">Removed from Favorite</string>
+    <string name="add_favorite">Added to Favorite</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">Tv Shows</string>
+</resources>

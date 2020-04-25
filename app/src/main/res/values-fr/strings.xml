@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Show.in</string>
+    <string name="title_home">Accueil</string>
+    <string name="change_language_settings">Changer les paramètres de langue</string>
+    <string name="movies">FILMS</string>
+    <string name="tv_shows">ÉMISSIONS DE TÉLÉVISION</string>
+    <string name="movie_title">Titre du film</string>
+    <string name="description">La description</string>
+    <string name="language">La langue</string>
+    <string name="release_date">Date de sortie</string>
+    <string name="genre">Genre</string>
+    <string name="overview">Vue d\'ensemble</string>
+    <string name="first_air_date">Date de première diffusion</string>
+    <string name="favorite">FAVORITO</string>
+    <string name="toast_remove_favorite">Eliminado de favorito</string>
+    <string name="toast_add_favorite">Añadido a favorito</string>
+    <string name="no_data_available">PAS DE DONNÉES DISPONIBLES</string>
+    <string name="insert_movie_title">Entrez le titre du film…</string>
+    <string name="find">Find</string>
+    <string name="insert_tv_show_title">Entrez le titre de l\'émission télévisée…</string>
+    <string name="reminder_settings">Paramètres de rappel</string>
+    <string name="release">Libération</string>
+    <string name="daily">du quotidien</string>
+    <string name="enable_notification">Notification activée</string>
+    <string name="disable_notification">Notification désactivée</string>
+    <string name="enable_reminder">Rappel activé</string>
+    <string name="disable_reminder">Remider désactivé</string>
+    <string name="message_reminder_daily">Ennuyé? Ouvrez-moi pour le tuer!</string>
+    <string name="title_reminder_daily">Catalogue de films et séries télévisées</string>
+    <string name="now_showing_notification">Affichage de la notification</string>
+    <string name="reminder_notification">Notification de rappel</string>
+    <string name="favorite_banner">Votre film préféré</string>
+</resources>

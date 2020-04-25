@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Show.in</string>
+    <string name="title_home">Home</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="movies">MOVIES</string>
+    <string name="tv_shows">TV SHOWS</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="description">Description</string>
+    <string name="language">Language</string>
+    <string name="release_date">Release Date</string>
+    <string name="genre">Genre</string>
+    <string name="overview">Overview</string>
+    <string name="first_air_date">First Air Date</string>
+    <string name="favorite">FAVORITE</string>
+    <string name="toast_remove_favorite">Removed From Favorite</string>
+    <string name="toast_add_favorite">Added To Favorite</string>
+    <string name="no_data_available">NO DATA AVAILABLE</string>
+    <string name="insert_movie_title">Enter Movie Title…</string>
+    <string name="find">Find</string>
+    <string name="insert_tv_show_title">Enter Title of TV Show…</string>
+    <string name="reminder_settings">Reminder Settings</string>
+    <string name="release">Release</string>
+    <string name="daily">Daily</string>
+    <string name="enable_notification">Notification Enabled</string>
+    <string name="disable_notification">Notification Disabled</string>
+    <string name="enable_reminder">Reminder Enabled</string>
+    <string name="disable_reminder">Remider Disabled</string>
+    <string name="message_reminder_daily">Bored? Open me to kill it!</string>
+    <string name="title_reminder_daily">Movie &amp; Tv Show Catalogue</string>
+    <string name="now_showing_notification">Now Showing Notification</string>
+    <string name="reminder_notification">Reminder Notification</string>
+    <string name="favorite_banner">Your Favorite Movie</string>
+</resources>

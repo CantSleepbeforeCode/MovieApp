@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Show.in</string>
+    <string name="title_home">Rumah</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="movies">FILM</string>
+    <string name="tv_shows">ACARA TV</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="language">Bahasa</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="genre">Genre</string>
+    <string name="overview">Sinopsis</string>
+    <string name="first_air_date">Tanggal Tayang Pertama</string>
+    <string name="favorite">FAVORIT</string>
+    <string name="toast_remove_favorite">Dihapus dari Favorit</string>
+    <string name="toast_add_favorite">Ditambahkan ke Favorit</string>
+    <string name="no_data_available">TIDAK ADA DATA TERSEDIA</string>
+    <string name="insert_movie_title">Masukkan Judul Film…</string>
+    <string name="find">Cari</string>
+    <string name="insert_tv_show_title">Masukkan Judul Acara TV…</string>
+    <string name="reminder_settings">Pengaturan Pengingat</string>
+    <string name="release">Rilis</string>
+    <string name="daily">Harian</string>
+    <string name="enable_notification">Pemberitahuan Diaktifkan</string>
+    <string name="disable_notification">Pemberitahuan Dinonaktifkan</string>
+    <string name="enable_reminder">Pengingat Diaktifkan</string>
+    <string name="disable_reminder">Remider Dinonaktifkan</string>
+    <string name="message_reminder_daily">Bosen? Sini cek Film - Film seru!</string>
+    <string name="title_reminder_daily">Katalog Pertunjukan Film &amp; Tv</string>
+    <string name="now_showing_notification">Pemberitahuan Film Yang Sedang Tayang</string>
+    <string name="reminder_notification">Pemberitahuan Pengingat</string>
+    <string name="favorite_banner">Film Favorit Anda</string>
+</resources>
